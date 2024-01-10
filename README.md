@@ -1,3 +1,3 @@
-Bootstrap project to start a wiki powered by [Jekyll](https://jekyllrb.com/)
+Bootstrap project to start a wiki powered by [Jekyll](https://jekyllrb.com/).
 
-See https://jek4wik.github.io for more information
+See https://jek4wik.github.io for more information.
